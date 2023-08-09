@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameer Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Express,Flask**
+- 🔭 My Last Project Was [Stock-DashBoard](https://github.com/Sameerjha236/Stock-DashBoard)
+
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://sameerjha.netlify.app/](https://sameerjha.netlify.app/)
 
@@ -12,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameer-jha-23m6y2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-jha-23m6y2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sameer_jha236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameer_jha236" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sameer_jha236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameer_jha236" height="30" width="40" /></a>
 </p>
 
