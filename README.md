@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 My Recent Project [Stock-DashBoard](https://github.com/Sameerjha236/Stock-DashBoard)
+- 🔭 My Recent Project [Flippy](https://github.com/Sameerjha236/Flippy)
 
 - 🌱 I’m currently learning **Express**
 
