@@ -3,7 +3,7 @@
 
 - 🔭 My Recent Project [Flippy](https://github.com/Sameerjha236/Flippy)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://sameerjha.netlify.app/](https://sameerjha.netlify.app/)
 
