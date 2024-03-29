@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 My Recent Project [Flippy](https://github.com/Sameerjha236/Flippy)
+- 🔭 My Recent Project [Youtube Clone](https://github.com/Sameerjha236/Youtube-Clone)
 
 - 🌱 I’m currently learning **Nodejs**
 
