@@ -3,7 +3,7 @@
 
 - 🔭 My Recent Project [Youtube Clone](https://github.com/Sameerjha236/Youtube-Clone)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://sameerjha.netlify.app/](https://sameerjha.netlify.app/)
 
