@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sameerjha.netlify.app/](https://sameerjha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sameerjha.vercel.app/)
 
 - 💬 Ask me about **React**
 
