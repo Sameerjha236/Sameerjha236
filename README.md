@@ -4,7 +4,7 @@
 
 - 🔭 My Recent Project [Youtube Clone](https://github.com/Sameerjha236/Youtube-Clone)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://sameerjha.vercel.app/)
 
@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerjha236&show_icons=true&theme=dark&title_color=e70d0d&text_color=e7e4e4&locale=en&layout=compact" alt="sameerjha236" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerjha236&show_icons=true&theme=dracula&title_color=140000&text_color=be1e1e&bg_color=f5f5f5&locale=en" alt="sameerjha236" /></p>
+
