@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerjha236&label=Profile%20views&color=0e75b6&style=flat" alt="Sameer-Jha" /> </p>
 
-- 🔭 My Recent Project [Youtube Clone](https://github.com/Sameerjha236/Youtube-Clone)
+- 🔭 My Recent Project [Bug Tracker](https://github.com/Sameerjha236/BugTracker)
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -24,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerjha236&show_icons=true&theme=dark&title_color=e70d0d&text_color=e7e4e4&locale=en&layout=compact" alt="sameerjha236" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerjha236&show_icons=true&theme=dracula&title_color=140000&text_color=be1e1e&bg_color=f5f5f5&locale=en" alt="sameerjha236" /></p>
+
 
